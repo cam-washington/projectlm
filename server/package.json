@@ -1,0 +1,9 @@
+{
+  "name": "first-impression-studio-server",
+  "private": true,
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "dev": "node server.js"
+  }
+}
